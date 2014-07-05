@@ -7,5 +7,8 @@ Change Log
 
 ver_0.10
   -initial version
+  
   -placeholder images and text
+  
   -unfunctional inputboxes
+  
