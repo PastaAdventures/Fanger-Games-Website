@@ -28,3 +28,19 @@ ver 0.1.2
   -Options for pre-ordering Rapid City
   
   -Added dev blog post
+  
+ver 0.2.0
+
+  -Account page deleted
+  
+  -Blog page added
+  
+  -Renamed about page to studio
+  
+  -Rapid City now accessible
+  
+  -Team member information filled in
+  
+  -Social links now work
+  
+  -Added bootstrap.icon css and removed bootstrap.min css
